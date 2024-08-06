@@ -1,9 +1,12 @@
 # COVID 19 Death Rate Analysis - Tableau-Dashboard
 
 Covid 19 Death Analysis Dashboard using Tableau
-● Developed a Tableau COVID-19 World Dashboard illustrating global trends for 2020.
-● Employed Tableau Prep Builder for streamlined data preprocessing.
-● Created dynamic visualizations to highlight significant COVID-19 patterns.
+
+- Developed a Tableau COVID-19 World Dashboard illustrating global trends for 2020.
+  
+- Employed Tableau Prep Builder for streamlined data preprocessing.
+  
+- Created dynamic visualizations to highlight significant COVID-19 patterns.
 ![image](https://github.com/user-attachments/assets/ceb02b22-a2f1-42e8-9ab3-c7f17c383556)
 
 # 1. Overall +ve Cases Country Wise
